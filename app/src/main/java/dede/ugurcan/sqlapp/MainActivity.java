@@ -1,5 +1,12 @@
 package dede.ugurcan.sqlapp;
 
+/**
+ * @author: Ugurcan Dede
+ * @date: 13.12.2019
+ * @description: Listview implementation on SQLlite application by Ugurcan Dede
+ * @project-url: https://github.com/ugurcandede/SQLApp
+ */
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.database.Cursor;
